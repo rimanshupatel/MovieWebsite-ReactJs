@@ -1,0 +1,16 @@
+{
+    "color": "#ddd",
+    "logo": {
+        "position": "left"
+    },
+    "menus": {
+        "position": "left",
+        "color": "danger",
+        "items": ["First link",  "Second link", "Third link"]
+    },
+    "action": {
+        "text": "Login",
+        "color": "red",
+        "icon": ""
+    }
+}
