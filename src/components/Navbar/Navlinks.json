@@ -1,23 +1,23 @@
 [
     {
-        "id":"1",
-        "title":"home",
+        "id" : 1,
+        "title" : "home",
         "link" : "/"
     },
     {
-        "id":"2",
-        "title":"about",
-        "link" : "/about"
+        "id" : 2,
+        "title" : "about",
+        "link" : "/About"
     },
-    {
-        "id":"3",
-        "title":"blog",
-        "link" : "/blog"
-    },
-    {
-        "id":"4",
-        "title":"contact us",
-        "link" : "/contactUs"
-    }
 
+    {
+        "id" :3 ,
+        "title" : "Movie",
+        "link" : "/"
+    },
+    {
+        "id" : 4,
+        "title" : "contact us",
+        "link" : "/ContactUs"
+    }
 ]

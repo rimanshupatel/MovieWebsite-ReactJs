@@ -15,8 +15,7 @@ function App() {
         <Navbar />
 
         <Routes>
-          <Route path="/" element={<HeroSection />} />
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/About" element={<About />} />
           <Route path="/ContactUs" element={<ContactUs />} />
           <Route path="*" element={<ErrorPage />} />

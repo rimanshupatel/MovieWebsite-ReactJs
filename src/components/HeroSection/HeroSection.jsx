@@ -1,4 +1,3 @@
-import Home from "../Home";
 import banner from "./banner.jpg";
 
 export default function HeroSection() {
@@ -7,7 +6,6 @@ export default function HeroSection() {
       <div className="py-4">
         <img src={banner} alt="" className="w-full" />
       </div>
-      <Home />
     </>
   );
 }

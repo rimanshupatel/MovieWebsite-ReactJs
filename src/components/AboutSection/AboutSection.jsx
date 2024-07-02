@@ -6,16 +6,24 @@ const AboutSection = () => {
         <div className="md:w-1/2 text-center md:text-left mb-8 md:mb-0">
           <h2 className="text-3xl font-bold mb-4">About Our Store</h2>
           <p className="text-gray-700 leading-relaxed mb-6">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sit
-            amet urna tincidunt, lacinia metus vel, fringilla leo. Sed ut turpis
-            et lorem luctus efficitur. Integer vestibulum, libero vel
-            ullamcorper vestibulum, erat risus mollis justo, nec varius neque
-            velit id velit.
+            Welcome to VegaMovies, your go-to destination for all your movie
+            entertainment needs! At VegaMovies, we’re passionate about bringing
+            you the latest and greatest movies in the best possible quality. Our
+            mission is simple: to provide movie enthusiasts like you with a
+            convenient and accessible platform to download your favorite films.
+            Whether you’re into action, romance, comedy, or anything in between,
+            we’ve got you covered. With a wide selection of movies available for
+            download, ranging from 480p to stunning 4K resolution, there’s
+            something for everyone at VegaMovies. We believe in offering choice
+            and flexibility, so you can enjoy your movies exactly how you want,
+            whenever you want. Got questions or suggestions?
           </p>
           <p className="text-gray-700 leading-relaxed mb-6">
-            Fusce posuere purus sed ipsum feugiat, eu euismod magna ultricies.
-            Morbi euismod, nulla eu scelerisque elementum, neque magna varius
-            orci, ac malesuada nisi lorem nec velit.
+            We’d love to hear from you! Feel free to reach out to us at
+            contact@vegamoviez.com.in. Your feedback helps us improve and ensure
+            that VegaMovies remains your ultimate destination for movie magic.
+            Thank you for choosing VegaMovies. Sit back, relax, and enjoy the
+            show!
           </p>
           <a
             href="#"
