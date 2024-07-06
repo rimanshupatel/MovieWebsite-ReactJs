@@ -2,9 +2,10 @@ import axios from "axios";
 import React, { useContext, useEffect, useState } from "react";
 const AppContext = React.createContext();
 const ApiKey = import.meta.env.VITE_API_KEY;
+const ApiId = import.meta.env.ID;
 console.log(ApiKey);
 
-const Api_url = `https://www.omdbapi.com/?apikey=${ApiKey}`;
+const Api_url = `https://www.omdbapi.com/?i=tt3896198&apikey=${ApiKey}`;
 const AppProvider = ({ children }) => {
   const [info, setInfo] = useState([]);
   const [loading, setLoading] = useState(true);
